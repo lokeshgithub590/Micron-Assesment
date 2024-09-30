@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "WebServiceAPI.Controllers.MyDataController",
+    "Method": "Post",
+    "RelativePath": "api/MyData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "WebServiceAPI.Models.MyDataModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
